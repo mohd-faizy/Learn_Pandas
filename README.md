@@ -8,7 +8,7 @@
 
 
 # Pandas
-![Pandas-roadmap]()
+![Pandas-roadmap](https://github.com/mohd-faizy/Learn_Pandas/blob/277e17f7cbb85319a70a68ba47566dab521e9b6b/_img/Pandas.png)
 
 Welcome to the Pandas repository! This repo is dedicated to providing helpful resources, tutorials, and examples for using the Pandas library in Python.
 
@@ -24,9 +24,9 @@ Welcome to the Pandas repository! This repo is dedicated to providing helpful re
     - [Reading a CSV File](#reading-a-csv-file)
     - [Data Analysis](#data-analysis)
   - [Features](#features)
-  - [⚖ ➤ License](#--license)
-  - [❤️ Support](#️-support)
-      - [$\\color{skyblue}{\\textbf{Connect with me:}}$](#colorskybluetextbfconnect-with-me)
+
+
+ 
 
 
 
