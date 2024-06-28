@@ -8,7 +8,7 @@
 
 
 # Pandas
-![Pandas-roadmap](https://github.com/mohd-faizy/Learn_Pandas/blob/277e17f7cbb85319a70a68ba47566dab521e9b6b/_img/Pandas-banner.jpg)
+![Pandas-banner](https://raw.githubusercontent.com/mohd-faizy/Learn_Pandas/master/_img/Pandas-banner.jpg)
 
 Welcome to the Pandas repository! This repo is dedicated to providing helpful resources, tutorials, and examples for using the Pandas library in Python.
 
